@@ -1,0 +1,1 @@
+# himolatech_assets
