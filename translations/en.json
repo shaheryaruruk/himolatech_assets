@@ -1,0 +1,462 @@
+{
+
+    "settings": "Settings",
+    "language": "Language",
+    "themeMode": "Theme Mode",
+    "enableNotifications": "Enable Notifications",
+    "systemDefault": "System Default",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "registration": "Registration",
+    "notifications": "Notifications",
+  
+
+    "we_couldnt_locate_you_on_the_map": "We couldn't locate you on the map",
+  
+    "please_click_here_to_grant_access_to_your_location":
+        "Please click here to grant access to your location",
+  
+    "export_invoice": "Export Invoice",
+    "himolatech": "Himolatech",
+    "city_to_city": "City to City",
+    "within_city": "Within City",
+    "rate_now": "Rate Now",
+    "add_comment": "Add Comments",
+  
+    "ride_to": "Ride to",
+    "rate_now": "Rate Now",
+    "shared_truck": "Shared Truck",
+    "ongoing_activities": "Ongoing Activities",
+    "top_offer": "Top Offers",
+    "youve_a_new_message": "You've a new message",
+    "view": "View",
+    "help_center": "Help Center",
+    "location_not_found":
+        "We couldn't locate you on the map.\nPlease click here to grant access to your location.",
+    "search_for_your_truck": "Search for your truck",
+    "box_trucks_enclosed": "Box Trucks (Enclosed)",
+    "low_loader_trucks": "Low Loader Trucks",
+    "flatbed_trucks": "Flatbed Trucks",
+    "which_vehicle_best_matches_your_cargo_needs?":
+        "Which vehicle best matches your cargo needs?",
+    "load_size": "Load size",
+    "starts_from": "Starts from",
+
+    
+    "al_naeemi": "AL Naeemi",
+    "book_a_truck": "Book a Truck",
+    "recent_bookings": "Recent Bookings",
+    "wallet_&_payments": "Wallet & Payments",
+    "communication_&_support": "Communication & Support",
+    "settings": "Settings",
+    "modes": "Modes",
+  
+    "deactivate_account": "Deactivate account",
+    "email_notification": "Email Notifications",
+    "delete_account?": "Delete account?",
+    "view_terms_&_condition": "View terms & conditions",
+    "messages": "Messages",
+    "contact_us_at": "Contact Us at",
+    "faqs": "FAQS",
+    "topic": "Topic",
+    "content":
+        "Lorem ipsum dolor sit amet consectetur. Ullamcorper elit nunc eget vestibulum. Aliquet nec tristique tempus pharetra ultrices. Vitae eget tempus duis sit id. Integer amet convallis egestas interdum consequat urna mi",
+    "rate_your_ride": "Rate your Ride",
+  
+    "switch_to_driver_mode": "SWITCH TO DRIVER MODE",
+    "box_trucks_(Encloased)": "Box Trucks(Enclosed)",
+    "low_loader_trucks": "Low Loader Trucks",
+    "heavy_load_truck": "Heavy Load Truck",
+    "flatbed_trucks": "Flatbed Trucks",
+    "very_poor": "Very poor",
+    "needs_improvement": "Needs Improvement",
+    "average_service": "Average Service",
+    "good_ride": "Good Ride",
+    "excellent_experience": "Excellent Experience",
+    "profile_managment": "Profile Managment",
+    "rating_categories": "Rating Categories",
+    "current_balance": "Current Balance",
+    "top_up_now": "Top Up Now",
+
+    
+    "weve_send_you_the": "We've send you the",
+    "code_at": "code at",
+    "didnt_get_the_code": "Didn't get the code",
+    "otp_confirmed": "OTP Confirmed",
+    "resend": "Resend",
+    "you're_all_set_to_log_in_now": "You're all set to log in now",
+    "verify_otp": "Verify OTP",
+    "confirm_otp": "Confirm OTP",
+    "in_transit": "In Transit",
+    "upcomming_bookings": "Upcoming Bookings",
+    "upcoming_rides": "Upcoming Rides",
+    "ongoing_negotiation": "Ongoing Negotiation",
+
+    
+    "please_enter_your": "Please Enter your",
+    "full_name": "Full Name",
+    "proceed": "Proceed",
+
+    
+    "sign_up": "Sign Up",
+    "login": "Login",
+    "logout": "Logout",
+    "biometric_login": "Biometric Login",
+    "or_signup_with": " or Signup with ",
+    "get_started_with_your": "Get Started With Your",
+    "himolatech_journey": "Himolatech Journey",
+    "login_with_facebook": "Login with Facebook",
+    "login_with_gmail": "Login with Gmail",
+    "customer_support": "Customer Support?",
+
+    
+    "okay": "Okay",
+    "done": "Done",
+    "cancel": "Cancel",
+    "name": "Name",
+    "skip": "Skip",
+    "next": "Next",
+    "save": "Save",
+    "enter_name": "Enter name",
+    "date_of_birth": "Date of Birth",
+    "read_and_accept": "I have read and accept the",
+    "terms_and_conditions": "Terms and Conditions",
+    "terms_and_conditions_content":
+        "Please read these conditions carefully before using Amazon Services. ",
+    "rate_experience": "Please rate your experience",
+
+    
+    "onboarding_title1": "Move Your World with Ease!",
+    "onboarding_title2": "Trucks for Every Need",
+    "onboarding_title3": "Pay & Plan with Ease",
+    "skip": "Skip",
+    "press_here": "Press here",
+  
+    "register_as_customer": "Register as Customer",
+    "become_a_captain": "Become a Captain",
+
+    
+    "city_to_city_ride_request": "City to City",
+    "source_location_hint": "Enter Source Location",
+    "destination_location_hint": "Enter Destination Location",
+    "pickup_time": "Pickup Time",
+    "now": "Now",
+    "upto_1hr": "Up to 1hr",
+    "scheduled_trip": "Scheduled Trip",
+    "consignee_name": "Consignee Name",
+    "consignee_number": "Consignee Number",
+    "approx_cargo_weight": "Approx Cargo Weight",
+    "kgs": "kgs",
+    "roof_covered": "Roof Covered",
+    "cargo_categories": "Cargo Categories",
+    "wood_and_timber": "Wood & Timber",
+    "iron_and_steel": "Iron & Steel",
+    "textile_and_fabrics": "Textile & Fabrics",
+    "furniture_and_upholstery": "Furniture & Upholstery",
+    "appliances_and_electronics": "Appliances & Electronics",
+    "food_and_beverages": "Food & Beverages",
+    "plastics_and_polymers": "Plastics & Polymers",
+    "construction_materials": "Construction Materials",
+    "upload_cargo_images": "Upload Cargo Images",
+    "upload_images": "Upload Images",
+    "upload_cargo_images_hint":
+        "* Please ensure the image size is less than 100KB for optimal performance.",
+    "recommended_fare": "Recommended Fare",
+    "suggest_your_rate": "Suggest Your Rate",
+    "view_cost_breakdown": "View Cost Breakdown",
+    "description_of_cargo": "Description of Cargo",
+    "create_request": "Create Request",
+    "select_the_date": "Select the date",
+    "select_the_time": "Select the time",
+    "vehicle_rental_cost": "Vehicle Rental Cost",
+    "labor_assistant_cost": "Labor/Assistant Costs",
+    "distance_time": "Distance & Time",
+    "total_cost": "Total Cost",
+    "subtotal": "Subtotal",
+    "taxes_and_fees": "Taxes & Fees",
+    "grand_total": "Grand Total",
+    "close": "Close",
+    "payment_method": "Payment Method",
+    "pay_in_cash": "Pay in Cash",
+    "done": "Done",
+    "expires": "Expires",
+    "required_labors_optional": "Required Labors (Optional)",
+    "labor_cost_note": "Please note that the cost of 1 assistant is ",
+    "no_of_assistants": "Number of Assistants",
+    "floor_number": "Floor Number",
+    "stop": "Stop",
+    "stops": "Stops",
+    "please_note": "Please Note!",
+    "please_fill_all_fields": "Please fill all fields.",
+
+    
+    "track_your_truck": "Track Your Truck",
+    "searching_for_captains": "Searching for the Captains...",
+    "hold_on": "Hold on",
+    "available_captains": "Available Captains",
+    "negotiate_fare": "Negotiate Fare",
+    "accept_now": "Accept Now",
+    "kms_away": "Kms away",
+    "truck_type": "Truck Type",
+    "cancel_request": "Cancel Request",
+    "sure_cancel_prompt": "Are you sure you want to Cancel?",
+    "cancel_fee_warning": "A cancellation fee may apply",
+    "for_scheduled_rides": "For Scheduled Rides",
+    "scheduled_cancel_line1":
+        "● Canceling this scheduled ride will result in a fee of [Fee Amount].",
+    "scheduled_cancel_line2":
+        "● You can reschedule or proceed with the ride to avoid this charge.",
+  
+    "for_on_the_spot_rides": "For On-the-Spot Rides",
+    "on_the_spot_cancel_line1":
+        "● Canceling this ride will result in a fee of [Fee Amount].",
+    "on_the_spot_cancel_line2":
+        "● The driver may already be on the way. Are you sure you want to cancel?",
+    "proceed_to_cancel": "Proceed to Cancel",
+    "view_terms_n_conditions": "View Terms & Conditions",
+    "why_cancelling": "Why do you want to Cancel?",
+    "career_refused_request": "Carrier Refused to take the Request?",
+    "changed_my_mind": "Changed my mind",
+    "truck_is_far": "Truck is too Far Away",
+    "others": "Others",
+    "write_comment": "Write a Comment",
+    "send_new_offer": "Send New Offer",
+    "one_last_step": "One Last Step",
+    "pay": "Pay",
+    "50_percent": "50%",
+    "advance_payment_msg_2": "now to confirm your scheduled ride.",
+    "pay_now": "Pay Now",
+    "vehicle_type": "Vehicle Type",
+    "access_to_restricted_areas": "Access to Restricted Areas",
+    "view_on_google_maps": "View on Google Maps",
+    "truck_details": "Truck Details",
+
+    
+    "scheduled_trucks": "Scheduled Trucks",
+    "scheduled_rides": "Scheduled Rides",
+  
+    "pickup_at": "Pickup At",
+    "on": "on",
+    "approx": "Approx",
+    "kg": "Kg",
+    "timber": "Timber",
+    "iron_and_steel": "Iron & Steel",
+    "furniture": "Furniture",
+    "total_distance": "Total Distance",
+    "cancel_now": "Cancel Now",
+    "vehicle_images": "Vehicle Images",
+    "type_your_message": "Type your message...",
+
+    
+    "track_now": "Track Now",
+    "ongoing_activities": "Ongoing Activities",
+    "ongoing_trucks": "Ongoing Trucks",
+    "ongoing_negotiations": "Ongoing Negotiations",
+    "booking_date": "Booking Date",
+
+    
+    "update_available": "Update Available",
+    "update_message":
+        "A newer version is released.\nUpdate to continue using the app.",
+    "update": "Update",
+    "later": "Later",
+
+    
+    "currency_title": "Currency",
+    "currency_name": "IQD",
+    "currency": "IQD",
+
+    
+  
+    "take_action": "Take Action",
+    "accept": "Accept",
+    "reject": "Reject",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "this_week": "This week",
+    "this_month": "This month",
+    "yesterday": "Yesterday",
+    "last_week": "Last week",
+    "last_month": "Last month",
+    "last_30_days": "Last 30 days",
+
+    
+    "my_requests": "My Requests",
+    "shared_trucks": "Shared Trucks",
+    "my_wallet": "My Wallet",
+    "negotiations": "Negotiations",
+    "my_income": "My Income",
+    "online": "Online",
+    "offline": "Offline",
+  
+    "captain": "Captain",
+    "low_wallet_balance_message": "Your wallet Balance is Low! Please Top Up",
+    "shipment_to": "Shipment to",
+    "export_invoice": "Export Invoice",
+    "shipment_dropped_on": "Shipment dropped on",
+    "images_at_pickup": "Images at Pickup",
+    "images_at_dropOff": "Images at DropOff",
+    "payment_summary": "Payment Summary",
+  
+    "ride_fare": "Ride Fare",
+    "total": "Total",
+    "including_taxes": " (Including taxes)",
+    "paid_with": "Paid with",
+    "other_details": "Other Details",
+    "pickup_location": "Pickup Location",
+    "drop-off_location": "DropOff Location",
+    "your_captain": "Your Captain",
+    "your_customer": "Your Customer",
+    "vehicle_no": "Vehicle No",
+    "mustafa_barzani": "Mustafa Barzani",
+    "need_help_with_this_shipment": "Need help with this shipment",
+    "directly_report_your_problem_or_visit_the_help_center":
+        "Directly report your problem or visit the help center to find answers to your questions.",
+    "need_help_with_this_shipment": "Need help with this shipment",
+    "visit_shipment_help_center": "Visit shipment help center",
+    "location":
+        "Sheikh Mohammed bin Rashid Blvd - Downtown Dubai - Dubai - United Arab Emirates",
+    "help": "Help",
+    "found_a_damaged_item": "Found a damaged item",
+    "captain_caused_the_ride_charges_to_increas":
+        "Captain caused the ride charges to increas",
+    "found_damaged":
+        "We sincerely apologize for the inconvenience. Sometimes Captains have to deal with factors out of their control like traffic, roadworks, or detours.",
+    "message_us": " Message Us",
+  
+    "report_a_problem": "Report a Problem",
+    "tell_us_more_about_your_problem": "Tell us more about your problem",
+    "write_here...": "Write here...",
+    "himolatech_ask_personal information":
+        "Himolatech will never ask for any personal information\n(Full Credit Card details, PIN, CVV, or Expirt date)",
+    "send_message": "Send Message",
+    "message_sent_successfully": "Message Sent Successfully",
+    "your_message_has_been_received_and_receive_to_you_after_3-5_business_days":
+        "Your message have been received successfully and we’ll reach out to you in next 3-5 business days. ",
+    "go_back": "Go Back",
+    "inbox": "Inbox",
+    "ago": "ago",
+    "support_agent": "Support Agent",
+    "view_shipment_details": "View Shipment  Details",
+  
+    "why_drive_with": "Why Drive with",
+    "himolatech?": "Himolatech?",
+    "maximize_your_earnings": "Maximize Your Earnings",
+    "flexible_scheduling": "Flexible Scheduling",
+    "effortless_ride_management": "Effortless Ride Management",
+    "instant_payments": "Instant Payments",
+    "choose_your_vehicle_type": "Choose your Vehicle Type",
+    "heavy_truck": "Heavy truck",
+    "basic_information": "Basic\nInformation",
+    "vehicle_info": "Vehicle\nInfo",
+    "selfie_with_id_card": "Selfie with\nID Card",
+    "govt_id_proofs": "Govt ID\nProofs",
+
+    
+    "gross_amount": "Gross Amount",
+    "total_no_of_rides": "Total No. of Rides",
+    "net_amount": "Net Amount",
+    "paid_fee": "Paid Fee",
+
+    
+  
+    
+    "waiting_for_customer_msg": "Waiting for the Customer to Accept your Offer",
+
+    
+    "going_to_pick_up": "Going to Pick Up",
+    "resume_tracking": "Resume Tracking",
+    "tap_here": "Tap here",
+
+    
+    "customer_detail": "Customer Detail",
+    "load_weight": "Load Weight",
+    "req_labors": "Req Labors",
+    "roof_covered": "Roof Covered",
+    "accept_for": "Accept for",
+    "im_here": "Im here",
+    "start_delivery": "Start Delivery",
+    "finish_ride": "Finish Ride",
+    "start_ride_images_message":
+        "Please Upload clear pictures of the cargo items",
+    "before_loading": "Before Loading",
+    "after_loading": "After Loading",
+
+    
+    "you_got_the_payment_of": "You got the payment of",
+    "via": "Via",
+    "rate_your_customer": "Rate your customer",
+    "payment_of": "Payment of",
+    "is_declined": "is Declined",
+    "update_your_payment_method": "Update your payment method",
+
+    
+    "upcoming_requests": "Upcoming Requests",
+    "vehicle_details": "Vehicle Details",
+    "recent_requests": "Recent Requests",
+    "switch_to_passenger_mode": "Switch to Passenger Mode",
+
+    
+    "delivered": "Delivered",
+    "mark_as_complete": "Mark as Complete",
+
+    "choose_image_source": "Choose Image Source",
+    "pick_from_gallery": "Pick from Gallery",
+    "take_picture": "Take a Picture",
+  
+    "basic_info": "Basic Info",
+    "add_your_profile_(visible face)": "Add Your Profile (Visible Face)",
+    "email_(optional)": "Email (Optional)",
+    "commercial_drivers_license(CDL)": "Commercial Drivers License(CDL)",
+    "work_permit": "Work Permit",
+    "medical_certificate": "Medical Certificate",
+    "get_started": "Get Started",
+    "previous": "Previous",
+    "front_side": "Front Side",
+    "back_side": "Back Side",
+    "upload_pic_of_work_permit_docu":
+        "Please upload clear picture of your Work Permit document",
+    "medical_certifcate": "Medical Certificate",
+    "please_upload_clear_picture_of_your_medical _fitness_certifcate":
+        "Please upload clear picture of your Medical Fitness Certifcate",
+  
+    "hold_your_CNIC_in_your_right_hand":
+        "Hold your CNIC in your right hand and take a selfie.",
+    "selfie_with_id_card": "Selfie with ID\nCard",
+    "govt_id_proofs ": "Govt ID Proofs",
+    "front_side_of_your_nic": "Front side of your NIC",
+    "back_side_of_your_nic": "Back side of your NIC",
+    "application_status": "Application Status",
+    "documents_submission_date": "Documents Submission Date:",
+    "your_application_is": "Your Application is",
+    "declined": "Declined",
+    "lorem_ipsum":
+        "Lorem ipsum dolor sit amet consectetur. Tortor nisl tristique phasellus molestie aliquet amet sollicitudin sagittis est. Netus ultricies aenean nisl amet aenean aliquam tortor diam.",
+    "login_as_customer": "Login As Customer",
+    
+    "logging_truck": "Logging Truck",
+    "brand": "Brand",
+    "model": "Model",
+    "chassis_no": "Chassis No",
+    "is_your_vehicle_roof_covered": "Is your vehicle roof covered?",
+    "inspection_certificate": "Inspection Certificate",
+    "permit_for_logistics_transportation": "Permit for Logistics Transportation",
+    "vehicle_registration": "Vehicle Registration",
+    "A_vehicle_info": "Vehicle Info",
+    "in_progress": "In Progress",
+    "view_application_status": "View Application Status",
+    "selfie_with_id_card ": "Selfie with ID Card",
+    "re_upload": "Re Upload",
+
+    
+    "status_approved_message": "You’re officially cleared and ready to dive in.",
+    "lets_go": "Let’s GO",
+    "trucking": "Trucking",
+    "submit_now": "Submit Now", 
+    "failed" : "Failed",
+    "to_save_data" : "To save data",
+    "error" : "Error",
+    "enter_your_name": "Enter your name",
+    "enter_your_phone_number": "Enter your phone number"
+  }
+  
