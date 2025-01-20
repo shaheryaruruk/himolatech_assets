@@ -16,17 +16,14 @@
     "please_click_here_to_grant_access_to_your_location":
         "Please click here to grant access to your location",
   
-    "export_invoice": "Export Invoice",
     "himolatech": "Himolatech",
     "city_to_city": "City to City",
     "within_city": "Within City",
-    "rate_now": "Rate Now",
     "add_comment": "Add Comments",
   
     "ride_to": "Ride to",
     "rate_now": "Rate Now",
     "shared_truck": "Shared Truck",
-    "ongoing_activities": "Ongoing Activities",
     "top_offer": "Top Offers",
     "youve_a_new_message": "You've a new message",
     "view": "View",
@@ -35,8 +32,6 @@
         "We couldn't locate you on the map.\nPlease click here to grant access to your location.",
     "search_for_your_truck": "Search for your truck",
     "box_trucks_enclosed": "Box Trucks (Enclosed)",
-    "low_loader_trucks": "Low Loader Trucks",
-    "flatbed_trucks": "Flatbed Trucks",
     "which_vehicle_best_matches_your_cargo_needs?":
         "Which vehicle best matches your cargo needs?",
     "load_size": "Load size",
@@ -48,7 +43,6 @@
     "recent_bookings": "Recent Bookings",
     "wallet_&_payments": "Wallet & Payments",
     "communication_&_support": "Communication & Support",
-    "settings": "Settings",
     "modes": "Modes",
   
     "deactivate_account": "Deactivate account",
@@ -111,10 +105,8 @@
 
     
     "okay": "Okay",
-    "done": "Done",
     "cancel": "Cancel",
     "name": "Name",
-    "skip": "Skip",
     "next": "Next",
     "save": "Save",
     "enter_name": "Enter name",
@@ -147,10 +139,8 @@
     "consignee_number": "Consignee Number",
     "approx_cargo_weight": "Approx Cargo Weight",
     "kgs": "kgs",
-    "roof_covered": "Roof Covered",
     "cargo_categories": "Cargo Categories",
     "wood_and_timber": "Wood & Timber",
-    "iron_and_steel": "Iron & Steel",
     "textile_and_fabrics": "Textile & Fabrics",
     "furniture_and_upholstery": "Furniture & Upholstery",
     "appliances_and_electronics": "Appliances & Electronics",
@@ -312,7 +302,7 @@
     "need_help_with_this_shipment": "Need help with this shipment",
     "directly_report_your_problem_or_visit_the_help_center":
         "Directly report your problem or visit the help center to find answers to your questions.",
-    "need_help_with_this_shipment": "Need help with this shipment",
+
     "visit_shipment_help_center": "Visit shipment help center",
     "location":
         "Sheikh Mohammed bin Rashid Blvd - Downtown Dubai - Dubai - United Arab Emirates",
@@ -349,7 +339,6 @@
     "heavy_truck": "Heavy truck",
     "basic_information": "Basic\nInformation",
     "vehicle_info": "Vehicle\nInfo",
-    "selfie_with_id_card": "Selfie with\nID Card",
     "govt_id_proofs": "Govt ID\nProofs",
 
     

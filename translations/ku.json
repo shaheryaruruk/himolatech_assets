@@ -1,6 +1,4 @@
 {
-    "register_as_customer": "خۆت تۆمار بکە وەک کڕیار",
-    "become_a_captain": "أصبح كابتن",
   
     "settings": "پێشەکەوت",
     "language": "زمانی",
@@ -38,8 +36,6 @@
     "read_and_accept": "خوێندوومەتەوە و قبوڵم کردووە",
     "terms_and_conditions": "مەرجەکان و ئه‌حكامه‌كان",
     "date_of_birth": "ڕێكه‌وتى لەدایکبوون",
-    "top_up_now": "پەرە بکەرەوە ئێستا",
-    "recent_booking": "دەستپێکی دوایین",
     "notifications": "ئاگادارییەکان",
 
     
@@ -70,12 +66,10 @@
     "deactivate_account": " ناچالاککردنی ئەکاونت",
     "delete_account?": "سڕینەوەی هەژمار؟",
     "view_terms_&_condition": "بینینی مەرج و مەسولەکان",
-    "export_invoice": "هەژمارەدەرھەڵکراوە",
     "ride_to": "چوونەوە بۆ",
     "rate_now": "ئێستا پێوانە دەبە",
     "recent_bookings": "بەردەوامبوونەوەی داواکردن",
     "shared_truck": "بارهەڵگری هاوبەش",
-    "ongoing_activities": "الأنشطة الجارية",
     "top_offer": ",ئۆفەرە سەرەکییەکان",
     "in_transit": "لە کاتی ترانزێتدا",
     "upcomming_bookings": "حجزکردنی داهاتوو",
@@ -90,7 +84,6 @@
     "book_a_truck": "پەڕەوە دەکرێ شاحینەکە",
     "wallet_&_payments": "کیف و پارەدانەکان",
     "communication_&-support": "پەیوەندی و پشتیوانی",
-    "settings": "ڕێکخستنەکان",
     "message": "پەیامەکان",
     "contact_us_at": "پەیامەکان",
     "faqs": "پەرسەکان و وەڵامەکان",
@@ -105,8 +98,6 @@
     "location_not_found":
         "ناتوانین ئیشکردنی شوێنتەکانت لە خەریطەدا، تکایە لەوەیە بکە لەبەر ئەوەی دەتوانیت بە کۆنترۆڵی شوێنت بەرز بکەیت.",
     "box_trucks_enclosed": "شاحینەی بۆکس (داخراوە)",
-    "low_loader_trucks": "شاحینەکان بە بارکێشی نزم",
-    "flatbed_trucks": "شاحینەکان بە سەرەوەی ڕووەک",
     "which_vehicle_best_matches_your_cargo_needs?":
         "کام ئۆتۆمبێل بە باشترین شێوەپێویستەکانت بۆ بەرزەدانەوە پەیوەندیدەکات؟",
     "load_size": "قەبارەی بەرزەدانە",
@@ -127,7 +118,6 @@
     "onboarding_title1": "!بە ئاسانیدا جیهانی خۆت بەرز بکە",
     "onboarding_title2": "تۆرەکان بۆ هەموو پێویستەکان",
     "onboarding_title3": "بە ئاسانیدا پارە بدە و پلانی بکە",
-    "skip": "بازدان",
     "press_here": "کلیک لێرە بکە",
   
     "register_as_customer": "خۆت تۆمار بکە وەک کڕیار",
@@ -145,10 +135,8 @@
     "consignee_number": "نۆمەری ڕێڕەوان",
     "approx_cargo_weight": "نزیکەی کێشی بارهەڵگر",
     "kgs": "kgs",
-    "roof_covered": "سەقف داپۆشراو",
     "cargo_categories": "جۆرەکانی بارهەڵگر",
     "wood_and_timber": "دار و تەختە",
-    "iron_and_steel": "ئاسن و پولات",
     "textile_and_fabrics": "دەستمال و جلوبەرگ",
     "furniture_and_upholstery": "مۆبڵ و جلوبەرگ",
     "appliances_and_electronics": "ئامێرەکانی ماڵ و ئەلکترۆنیک",
@@ -176,7 +164,6 @@
     "close": "داخستن",
     "payment_method": "شێوازی پێدانی پارە",
     "pay_in_cash": "نەخت پێدان",
-    "done": "تەواو بوو",
     "expires": "دەبێتە دیاری کراو",
     "required_labors_optional": "کرێکارانی پێویست (هەڵبژێرین)",
     "labor_cost_note": "تکایە ئەوە لەبەرچاو بگرە کە نرخی یەک یارمەتیدەرە",
@@ -301,7 +288,6 @@
     "need_help_with_this_shipment": "پێویستە یارمەتیدانت بۆ ئەم گواستنەوەیە",
     "directly_report_your_problem_or_visit_the_help_center":
         "کێشەکەت ڕاستەوخۆ ئاگادار بکە یان سەردانی ناوەندی یارمەتیدا بکە بۆ دۆزینەوەی وەڵامی پرسیارەکانت",
-    "need_help_with_this_shipment": "پێویستە یارمەتیدانت بۆ ئەم گواستنەوەیە",
     "visit_shipment_help_center": "سەردانی ناوەندی یارمەتیدانی گواستنەوە بکە",
     "location":
         "شەقامە شیخ محەممەد بن ڕاشد - ناوەندی دبی - دبی - یەکگرتووە ئەڕەبەییەکان",
@@ -328,19 +314,7 @@
     "ago": "لەمەوبەر",
     "support_agent": "نوێری پشتیوانی",
     "view_shipment_details": "بینینی وردەکاریەکانی بارەکان",
-  
-    "why_drive_with": "بۆچی لەگەڵ",
-    "himolatech?": "هیمۆلاتێک هەڵبژێری؟",
-    "maximize_your_earnings": "زۆرکردنی داهاتەکانت",
-    "flexible_scheduling": "خشتەی کار بە ئاسانی",
-    "effortless_ride_management": "بەڕێوەبردنی شوفێران بە ئاسانی",
-    "instant_payments": "پارەوەرەی خێرا",
-    "choose_your_vehicle_type": "جۆری ئۆتۆمبێلت هەڵبژێرە",
-    "heavy_truck": "کامێی بەرز",
-    "communication_&_support": "پەیوەندیدان و پشتیوانی",
-    "add_comment": "زیادکردنی لێدوان",
-    "basic_information": "زانیار\n بنەڕەتی",
-    "vehicle_info": "زانیار\n سەیارە",
+
     "selfie_with_id_card": "وێنەی خۆی گرتن لەگەڵ\nکارتی ناسنامە",
     "govt_id_proofs": "پێشوازی \nناسنامە حکومی",
 

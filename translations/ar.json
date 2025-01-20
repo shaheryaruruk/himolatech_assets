@@ -4,7 +4,6 @@
     "register_as_customer": "سجّل كعميل",
     "become_a_captain": "أصبح كابتن",
   
-    "settings": "إعدادات",
     "language": "لغة",
     "themeMode": "وضع المظهر",
     "enableNotifications": "تفعيل الإشعارات",
@@ -23,7 +22,6 @@
     "login_with_gmail": "تسجيلالدخولباستخدامجيميل",
     "customer_support": "دعم العملاء؟",
   
-    "otp_confirmed": "تم تأكيد رمز التحقق",
     "verify": "التحقق",
     "confirm_otp": "تأكيد رمز التحقق",
     "verify_otp": "تأكيد OTP",
@@ -42,7 +40,6 @@
   
     
     "okay": "حسنا",
-    "done": "تم",
     "cancel": "إلغاء",
     "name": "اسم",
     "skip": "تخطي",
@@ -67,9 +64,7 @@
     "within_city": "داخل المدينة",
     "shared_truck": "شاحنة مشتركة",
     "rate_now": "قيّم الآن",
-    "export_invoice": "تصدير الفاتورة",
     "ride_to": "الركوب إلى",
-    "ongoing_activities": "الأنشطة الجارية",
     "top_offer": "أعلى العروض",
     "in_transit": "في مرحلة انتقالية",
     "upcomming_bookings": "الحجوزات القادمة",
@@ -81,9 +76,6 @@
     "location_not_found":
         "لم نتمكن من تحديد موقعك على الخريطة، يرجى النقر هنا لمنح الوصول إلى موقعك.",
     "search_for_your_truck": "ابحث عن شاحنتك",
-    "box_trucks_enclosed": "شاحنات الصندوق (مغلقة)",
-    "low_loader_trucks": "شاحنات منخفضة التحميل",
-    "flatbed_trucks": "شاحنات ذات سطح مسطح",
     "which_vehicle_best_matches_your_cargo_needs?":
         "أي مركبة تناسب احتياجاتك للشحن بشكل أفضل؟",
     "load_size": "حجم الحمولة",
@@ -140,10 +132,8 @@
     "consignee_number": "رقم المستلم",
     "approx_cargo_weight": "وزن الشحن تقريباً",
     "kgs": "kgs",
-    "roof_covered": "سقف مغطى",
     "cargo_categories": "فئات الشحن",
     "wood_and_timber": "الخشب والأخشاب",
-    "iron_and_steel": "الحديد والفولاذ",
     "textile_and_fabrics": "النسيج والأقمشة",
     "furniture_and_upholstery": "الأثاث والمفروشات",
     "appliances_and_electronics": "الأجهزة المنزلية والإلكترونيات",
@@ -290,7 +280,6 @@
     "your_captain": "قائدك",
     "your_customer": "عميلك",
     "mustafa_barzani": "مصطفى البارزاني",
-    "need_help_with_this_shipment": "تحتاج مساعدة في هذه الشحنة",
     "directly_report_your_problem_or_visit_the_help_center":
         "أبلغ عن مشكلتك مباشرة أو قم بزيارة مركز المساعدة للعثور على إجابات لأسئلتك",
     "need_help_with_this_shipment": "تحتاج مساعدة في هذه الشحنة",
